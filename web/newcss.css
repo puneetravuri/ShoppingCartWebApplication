@@ -1,0 +1,51 @@
+/* 
+    Document   : newcss
+    Created on : Sep 9, 2012, 4:56:33 PM
+    Author     : vravuri
+    Description:
+        Purpose of the stylesheet follows.
+*/
+/*
+root { 
+    display: block;
+}*/
+body {
+    font-family: arial;
+}
+
+table {
+    background-color: #E3E4FA;
+    border: 1px solid #39F;
+    width: 100%;
+}
+
+h2 {
+    background-color:#B4CFEC;
+    border: 1px solid;
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-left-style: outset;
+    border-bottom-style: outset;
+}
+
+ul {
+    background-color: #E3E4FA;
+    font-family: Arial;
+    font-size: 15px;
+    font-variant: small-caps;
+}
+
+h3 {
+    background-color:#B4CFEC;
+    border: 1px solid;
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-left-style: outset;
+    border-bottom-style: outset;
+}
